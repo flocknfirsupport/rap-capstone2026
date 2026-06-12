@@ -15,7 +15,7 @@ SMB HR / people leadership stakeholders are adopting AI tools faster than they h
 The tool addresses five intersecting principles grounded in OPC guidance (2023), the CHRC AI Framework, and NIST AI RMF 1.0:
 
 - **Bias & fairness.** AI trained on historical HR data encodes historical inequities. A formal bias audit is flagged as strongly recommended to implement regularly before any consequential use to reduce harm risk, citing Obermeyer et al. (2019) and Buolamwini & Gebru (2018).
-- **Privacy.** PIPEDA requires informed consent for personal data processing. The tool separates current law (PIPEDA, in force) from proposed regulations (i.e. Bill C-27/AIDA, not yet in force as of June 2026).
+- **Privacy.** PIPEDA requires informed consent for personal data processing. The tool separates current law (PIPEDA, in force) from proposed regulations (i.e. Bill C-27/AIDA, not in force as of June 2026).
 - **Agency & recourse.** Employees and candidates whose employment outcomes are shaped by AI must be able to understand and contest these decisions. No override path is treated as a critical gap.
 - **Transparency.** Affected people cannot participate in a process they do not know much about. The tool flags non-disclosure as a critical issue and treats written process notice as the minimum standard.
 - **Decision power.** The tool distinguishes AI as a binding decision-maker from AI as a drafting aid. That distinction carries the most weight in the risk scoring because it determines whether a human retains real authority or nominal authority.
@@ -37,7 +37,7 @@ The intake covers use case, data, vendor model, AI role in decisions, disclosure
 
 - **Scoring is heuristic.** Weights are calibrated against OPC, CHRC, and NIST guidance but have not been independently validated against compliance outcomes.
 - **Self-report limits.** All inputs are self-reported with no verification mechanism. The value depends on honesty.
-- **Coverage gaps.** Environmental impact, accessibility requirements, and francophone workforce considerations are not covered by the seven questions. Employers have a duty to inquire and follow through, i.e. on accommodation process, where coverage gaps may exist.
+- **Coverage gaps.** Environmental impact and francophone workforce considerations are not covered by the eight questions. Employers have a duty to inquire and follow through, i.e. on accommodation process, where coverage gaps may exist.
 - **Legal currency.** The legal references section includes a last reviewed date and can be updated whenever new legislation passes.
 
 ---
